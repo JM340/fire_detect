@@ -5,9 +5,6 @@
 #include <torch/script.h>
 #include <torch/torch.h>
 
-#include <c10/cuda/CUDAStream.h>
-#include <ATen/cuda/CUDAEvent.h>
-
 #include <opencv2/opencv.hpp>
 #include <opencv2/core.hpp>
 #include <opencv2/imgproc.hpp>
